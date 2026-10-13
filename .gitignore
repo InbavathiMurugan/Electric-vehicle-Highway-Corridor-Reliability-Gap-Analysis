@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.gpkg
+*.gpkg.zip
+# Large geospatial files
+data/Cleaned datasets/highways_clean.geojson
+outputs/tables/national_segments_gap.geojson
+# Large generated datasets and visualizations
+/Dataset/Cleaned datasets/highways_clean.geojson
+/Dataset/Raw datasets/National_Highways.parquet
+/Visualization/tables/national_segments_gap.geojson

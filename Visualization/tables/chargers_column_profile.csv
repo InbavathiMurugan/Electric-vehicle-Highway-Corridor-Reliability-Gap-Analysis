@@ -1,0 +1,16 @@
+column,dtype,missing_count,unique_count
+ID,int64,0,1841
+name,str,0,1542
+latitude,float64,0,1840
+longitude,float64,0,1841
+town,str,0,739
+state,str,0,24
+postcode,str,0,987
+operator,str,0,35
+status,str,0,5
+is_operational,bool,0,2
+max_power_kw,float64,0,53
+total_points,int64,0,22
+has_fast_charging,bool,0,2
+date_created,str,0,1572
+date_last_verified,str,0,1054

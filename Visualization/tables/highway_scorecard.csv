@@ -1,0 +1,7 @@
+road_name,road_km,segments,gap_segments,gap_km,longest_gap_km,covered_pct,all_chargers,fast_chargers,avg_power_kw,fast_per_100km,rating
+NH-544,330.6,14,0,0.0,0.0,100.0,109,101,43.5,30.6,Reliable
+NH-48,2542.5,105,3,58.2,27.1,97.7,216,191,52.2,7.5,Reliable
+NH-66,1646.0,84,20,491.8,376.1,70.1,259,243,44.0,14.8,Patchy
+NH-16,1711.8,77,25,609.0,126.2,64.4,114,38,19.9,2.2,Poor
+NH-44,3558.1,149,68,1566.8,426.6,56.0,213,186,57.4,5.2,Poor
+NH-52,2228.7,90,45,1114.7,173.4,50.0,20,19,48.9,0.9,Poor

@@ -1,0 +1,5 @@
+dataset,rows,columns,duplicate_full_rows
+ev_registration,36,12,0
+chargers,1841,15,0
+states,36,8,0
+highways,9511,6,6

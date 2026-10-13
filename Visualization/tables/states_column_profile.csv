@@ -1,0 +1,9 @@
+column,dtype,missing_count,unique_count
+state,str,0,36
+state_code,string,0,36
+lgd_code,Int64,0,36
+geometry,geometry,0,36
+state_key,str,0,36
+admin_type,str,0,2
+area_km2,float64,0,36
+n_parts,int64,0,12

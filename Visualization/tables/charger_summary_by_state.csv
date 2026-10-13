@@ -1,0 +1,27 @@
+state_name,n_chargers,n_fast,median_power_kw,total_points
+Andhra Pradesh,43,14,7.400000047683716,47
+Assam,2,0,13.5,2
+Bihar,1,0,2.3,5
+Chandigarh,1,1,50.0,2
+Chhattisgarh,51,24,30.0,68
+Dadra and Nagar Haveli and Daman and Diu,4,4,30.0,4
+Delhi,34,17,25.0,55
+Goa,6,6,60.0,10
+Gujarat,67,36,30.0,101
+Haryana,27,26,30.0,64
+Himachal Pradesh,3,2,30.0,4
+Jammu and Kashmir,1,1,25.0,1
+Jharkhand,6,4,25.0,7
+Karnataka,376,323,60.0,1407
+Kerala,587,544,30.0,1306
+Madhya Pradesh,13,11,60.0,23
+Maharashtra,83,75,30.0,156
+Odisha,187,55,7.4,228
+Puducherry,1,0,24.0,1
+Punjab,2,2,40.0,4
+Rajasthan,47,46,30.0,95
+Tamil Nadu,212,181,30.0,394
+Telangana,17,10,60.0,48
+Uttar Pradesh,29,20,60.0,68
+Uttarakhand,14,12,30.0,22
+West Bengal,9,7,30.0,19

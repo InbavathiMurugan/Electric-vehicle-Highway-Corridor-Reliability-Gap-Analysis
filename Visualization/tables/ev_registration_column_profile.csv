@@ -1,0 +1,13 @@
+column,dtype,missing_count,unique_count
+State,str,0,36
+2017,int64,0,27
+2018,int64,0,32
+2019,int64,0,33
+2020,int64,0,35
+2021,int64,0,34
+2022,int64,0,35
+2023,int64,0,36
+2024,int64,0,36
+2025,int64,0,36
+2026,int64,0,36
+Total,int64,0,36

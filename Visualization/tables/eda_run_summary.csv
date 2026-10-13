@@ -1,0 +1,16 @@
+metric,value
+total_ev_registrations,10377820.0
+mapped_operational_chargers,1823
+fast_chargers,1421
+national_gap_km,98551.15
+national_gap_pct,60.46
+best_covered_target_highway,NH-544
+best_coverage_pct,100.0
+worst_covered_target_highway,NH-52
+worst_coverage_pct,50.0
+longest_target_highway_gap_km,426.6
+longest_target_highway_gap_road,NH-44
+top_gap_score_states,"Bihar, Chandigarh, Assam, Tripura, Punjab"
+highest_demand_low_fast_supply_states,"Bihar, Assam, Uttar Pradesh"
+states_with_zero_mapped_chargers,"Lakshadweep, Ladakh, Sikkim, Nagaland, Arunachal Pradesh, Meghalaya, Tripura, Mizoram, Manipur, Andaman and Nicobar Islands"
+charger_share_within_corridor_pct,86.18

@@ -1,0 +1,7 @@
+scenario,top10_overlap,rank_correlation
+base 0.40/0.35/0.25,10,1.0
+equal weights,8,0.964
+demand-heavy,8,0.885
+highway-heavy,6,0.816
+density-heavy,5,0.446
+demand = total EV registrations per fast charger,9,0.99

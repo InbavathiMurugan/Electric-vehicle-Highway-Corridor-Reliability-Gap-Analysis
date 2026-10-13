@@ -1,0 +1,7 @@
+column,dtype,missing_count,unique_count
+state_ut,str,1,34
+road_name,str,496,914
+road_type,str,0,5
+status,str,55,3
+length_km,float64,0,9501
+geometry,geometry,0,9507

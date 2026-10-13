@@ -1,0 +1,7 @@
+road_name,power >= 22 kW,power >= 25 kW,power >= 50 kW,dataset flag,verdict,coverage_range_%
+NH-16,Poor,Poor,Poor,Poor,Stable rating,24 - 64
+NH-44,Poor,Poor,Poor,Poor,Stable rating,48 - 56
+NH-48,Reliable,Reliable,Patchy,Reliable,Stable rating,82 - 98
+NH-52,Poor,Poor,Poor,Poor,Stable rating,29 - 50
+NH-544,Reliable,Reliable,Reliable,Reliable,Stable rating,100 - 100
+NH-66,Patchy,Patchy,Patchy,Patchy,Stable rating,70 - 70
