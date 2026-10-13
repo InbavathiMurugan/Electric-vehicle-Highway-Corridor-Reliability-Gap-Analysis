@@ -227,21 +227,21 @@ The following screenshot paths are documented in the project materials. Keep the
 
 ### Fast-charging coverage on six highways
 
-![Fast-Charging Coverage on 6 Highways](outputs/figures/10_gap_map_6_highways.png)
+![Fast-Charging Coverage on 6 Highways](Visualization/figures/10_gap_map_6_highways.png)
 
 ### Highway scorecard
 
-![Highway Scorecard](outputs/figures/09_highway_scorecard.png)
+![Highway Scorecard](Visualization/figures/09_highway_scorecard.png)
 
 ### EV Desert Quadrant
 
-![EV Desert Quadrant](outputs/figures/06_ev_desert_quadrant.png)
+![EV Desert Quadrant](Visualization/figures/06_ev_desert_quadrant.png)
 
 ### State gap score map
 
-![State Gap Score Map](outputs/figures/18_gap_score_map.png)
+![State Gap Score Map](Visualization/figures/18_gap_score_map.png)
 
-Additional project figures are documented in `outputs/figures/`.
+Additional project figures are documented in `Visualization/figures/`.
 
 ## Project Structure
 
